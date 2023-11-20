@@ -10,7 +10,7 @@ import Footer from "@/components/Footer";
 const Home = () => {
   return (<div>
     <Head>
-      <title>OYO : India's Best Online Hotel Bokking Site For Sanitised Stay.</title>
+      <title>OYO : India&apos;s Best Online Hotel Bokking Site For Sanitised Stay.</title>
       
     </Head>
     <Header1 />
