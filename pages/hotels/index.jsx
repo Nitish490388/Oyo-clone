@@ -5,7 +5,7 @@ import axios from "axios";
 import Hotel from "@/components/Hotel";
 import { useEffect } from "react";
 
-const index = ({ hotels }) => {
+const Index = ({ hotels }) => {
     const [price, setPrice] = useState(3500);
     const [list, setList] = useState([]);
     const [checkedlist, setCheckedlist] = useState([]);
@@ -83,4 +83,4 @@ export async function getServerSideProps(ctx) {
     };
 }
 
-export default index;
+export default Index;
