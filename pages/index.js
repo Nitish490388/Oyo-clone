@@ -11,7 +11,7 @@ const Home = () => {
   return (<div>
     <Head>
       <title>OYO : India's Best Online Hotel Bokking Site For Sanitised Stay.</title>
-      <link rel="icon" href="/icon.png"></link>
+      
     </Head>
     <Header1 />
     <Header2 />
